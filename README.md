@@ -1,4 +1,4 @@
-# ADD Detect Layer to coreml yolo model
+# Add Detect Layer to coreml yolo model
 
 This is prototype in production 
 
